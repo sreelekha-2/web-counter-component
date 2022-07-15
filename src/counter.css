@@ -1,0 +1,17 @@
+.container{
+    text-align:center;
+}
+
+.count{
+    font-size:40px;
+    font-weight:bold;
+}
+
+.btn{
+    padding:10px 25px;
+    background-color: cadetblue;
+    border-radius: 20px;
+    border-width:0px;
+    margin-right:10px;
+    font-size:18px;
+}

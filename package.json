@@ -1,0 +1,30 @@
+{
+  "name": "counter-neosoft",
+  "version": "1.0.9",
+  "description": "",
+  "main": "dist/index.js",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": ["num-counter"],
+  "files": [
+    "dist/index.js",
+    "dist/index.js.map",
+    "dist/index.css",
+    "dist/index.css.map"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-to-webcomponent": "^1.6.1"
+  }
+}
